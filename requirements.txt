@@ -1,0 +1,10 @@
+scipy
+numpy
+imutils
+opencv-python
+Keras
+tensorflow
+matplotlib
+pillow
+seaborn
+
